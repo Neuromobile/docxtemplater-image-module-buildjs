@@ -1,0 +1,25 @@
+{
+  "name": "docxtemplater-image-module-buildjs",
+  "version": "1.0.4",
+  "description": "A js build to use docxtemplater-image-module in the browser",
+  "main": "imagemodule.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neuromobile/docxtemplater-image-module-buildjs.git"
+  },
+  "keywords": [
+    "docxtemplater",
+    "image",
+    "js",
+    "docxtemplater-image-module"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neuromobile/docxtemplater-image-module-buildjs/issues"
+  },
+  "homepage": "https://github.com/Neuromobile/docxtemplater-image-module-buildjs#readme"
+}
