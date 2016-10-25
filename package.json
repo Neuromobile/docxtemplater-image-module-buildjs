@@ -1,6 +1,6 @@
 {
   "name": "docxtemplater-image-module-buildjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A js build to use docxtemplater-image-module in the browser",
   "main": "imagemodule.min.js",
   "scripts": {
