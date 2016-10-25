@@ -280,7 +280,7 @@ module.exports = function () {
 				name: "word/media/" + realImageName,
 				data: imageData,
 				options: {
-					base64: false,
+					base64: true,
 					binary: true,
 					compression: null,
 					date: new Date(),
